@@ -4,3 +4,4 @@ pull_request_rules:
       - -closed
     actions:
       update:
+        bot_account: ph1shingvic
