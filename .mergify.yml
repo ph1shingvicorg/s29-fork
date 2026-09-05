@@ -1,0 +1,6 @@
+pull_request_rules:
+  - name: keep the pull request up to date
+    conditions:
+      - -closed
+    actions:
+      update:
